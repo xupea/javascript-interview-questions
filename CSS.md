@@ -26,3 +26,25 @@ h1 {
   font-size: 1.5em; 
 }
 ```
+step5:
+
+fluid grid
+```
+.main {
+  float: right;
+  width: 70%; 
+}
+.leftBar {
+  float: left;
+  width: 25%;
+}
+```
+step6:
+
+Media query
+```
+<link rel="stylesheet" type="text/css"
+　　　　media="screen and (min-width: 400px) and (max-device-width: 600px)"
+　　　　href="smallScreen.css" />
+```
+
