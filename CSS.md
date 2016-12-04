@@ -1,4 +1,5 @@
 Responsive Web Design:
+
 Step1:
 ```
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
