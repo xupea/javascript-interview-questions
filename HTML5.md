@@ -21,3 +21,17 @@ HTML Application Cache
 HTML Web Workers
 HTML SSE
 ```
+
+## What is New in CSS3?
+
+1. Rounded Corners : border-radius
+2. Border Images : border-image
+3. Multi-column Layout : The CSS3 multi-column layout allows easy definition of multiple columns of text - just like in newspapers
+4. Box Sizing : box-sizing
+5. Flexible Box: Use of flexbox ensures that elements behave predictably when the page layout must accommodate different screen sizes and different display devices
+6. Media Queries :
+```
+@media not|only mediatype and (expressions) {
+    CSS-Code;
+}
+```
