@@ -51,14 +51,16 @@ Bootstrap
 Less is a CSS pre-processor, meaning that it extends the CSS language, adding features that allow variables, mixins, functions and many other techniques that allow you to make CSS that is more maintainable, themeable and extendable.
 
 ## Grunt
-### In one word: automation. The less work you have to do when performing repetitive tasks like minification, compilation, unit testing, linting, etc, the easier your job becomes. After you've configured it through a Gruntfile, a task runner can do most of that mundane work for you—and your team—with basically zero effort.
+In one word: automation. The less work you have to do when performing repetitive tasks like minification, compilation, unit testing, linting, etc, the easier your job becomes. After you've configured it through a Gruntfile, a task runner can do most of that mundane work for you—and your team—with basically zero effort.
 
 ## Gulp
 Automate and enhance your workflow
 
-### By preferring code over configuration, node best practices, and a minimal API surface - gulp makes things simple like never before.
-### Using the power of node streams, gulp gives you fast builds that don't write intermediary files to disk.
-### By enforcing strict guidelines, we ensure our plugins stay simple and work as expected.
+By preferring code over configuration, node best practices, and a minimal API surface - gulp makes things simple like never before.
+
+Using the power of node streams, gulp gives you fast builds that don't write intermediary files to disk.
+
+By enforcing strict guidelines, we ensure our plugins stay simple and work as expected.
 
 ## Webpack2
 Webpack is a module bundler for modern JavaScript applications. When webpack processes your application, it recursively builds a dependency graph that includes every module your application needs, then packages all of those modules into a small number of bundles - often only one - to be loaded by the browser.
