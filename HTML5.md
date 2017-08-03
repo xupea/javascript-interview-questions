@@ -61,4 +61,4 @@ Automate and enhance your workflow
 ### By enforcing strict guidelines, we ensure our plugins stay simple and work as expected.
 
 ## Webpack2
-he JavaScript Task Runner
+Webpack is a module bundler for modern JavaScript applications. When webpack processes your application, it recursively builds a dependency graph that includes every module your application needs, then packages all of those modules into a small number of bundles - often only one - to be loaded by the browser.
