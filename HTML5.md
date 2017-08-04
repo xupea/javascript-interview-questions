@@ -37,6 +37,7 @@ HTML SSE
 ```
 
 ## ES6
+[logo]: https://github.com/xupea/javascript-interview-questions/blob/master/Screen%20Shot%202017-08-02%20at%2011.50.40%20PM.png?raw=true "Logo Title Text 2"
 
 
 ## Responsive Web Design
