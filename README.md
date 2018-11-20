@@ -18,3 +18,11 @@ https://www.toptal.com/javascript/interview-questions
 React:
 
 https://www.codementor.io/reactjs/tutorial/5-essential-reactjs-interview-questions
+
+
+
+原型对象和原型链
+
+https://www.jianshu.com/p/dee9f8b14771
+
+https://www.cnblogs.com/shuiyi/p/5305435.html
